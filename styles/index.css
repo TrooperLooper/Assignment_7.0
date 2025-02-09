@@ -100,5 +100,9 @@ body {background-color: #9DBEBB;}
  button:hover {
     background-color: #69b2bb;
 }
-
+input:required:valid {
+    border-color: green;
+  }
+  input:invalid {
+    border-color: red;
   
