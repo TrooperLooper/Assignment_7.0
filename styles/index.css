@@ -36,8 +36,8 @@ body {background-color: #9DBEBB;}
     max-height: 603px;
     position: absolute;
     top: 0px;
-    bottom: 20%;
-    right: 50%;
+    bottom: 20%px;
+    right: 50%px;
 }
 
 
@@ -60,7 +60,7 @@ body {background-color: #9DBEBB;}
     color: #feffff;
     background: transparent;
     margin-left: 65px;
-    margin-top: 20px;    
+    margin-top: 35px;    
   }
   
   input {
@@ -68,12 +68,12 @@ body {background-color: #9DBEBB;}
     background: transparent;
     color: #feffff;
     border-bottom: 1px solid #9DBEBB;
-    margin-top: 20px;
-    padding-top: 15px;
+    margin-top: 50px;
+    padding-top: 20px;
 }
 
 .headlines {
-    padding-top: 30px;
+    padding-top: 40px;
 }
 
 .headlines_end {
