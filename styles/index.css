@@ -36,8 +36,8 @@ body {background-color: #9DBEBB;}
     max-height: 603px;
     position: absolute;
     top: 0px;
-    bottom: 20px;
-    right: 600px;
+    bottom: 20%;
+    right: 50%;
 }
 
 
@@ -60,7 +60,7 @@ body {background-color: #9DBEBB;}
     color: #feffff;
     background: transparent;
     margin-left: 65px;
-    margin-top: 65px;    
+    margin-top: 20px;    
   }
   
   input {
@@ -92,8 +92,8 @@ body {background-color: #9DBEBB;}
     border: none;
     letter-spacing: 0.100em;
     box-shadow: 0px 0px 10px 0 rgb(0 0 0 / 0.2);
-    position: absolute;
-    left: 250px;right: 0;
+    position: relative;
+    left: 20%;right: 30%;
     
  }
 
@@ -105,10 +105,3 @@ body {background-color: #9DBEBB;}
     background-color: rgb(209, 40, 40);
 }
  
-input:required:valid {
-    border-color: green;
-  }
-
-  input:invalid {
-    border-color: red;
-  
